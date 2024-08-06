@@ -11,7 +11,7 @@ public class AppAreaTrapezioConstrutor {
         double altura = 6.3;
         
         Trapezio x = new Trapezio(baseMaior,baseMenor,altura);
-        System.out.printf("Área X = %.2f%n", x.area());
+        System.out.printf("Áreaa X = %.2f%n", x.area());
     }
     
 }
